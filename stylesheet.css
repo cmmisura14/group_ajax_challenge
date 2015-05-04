@@ -1,0 +1,12 @@
+.profilePic {
+    width: 100%;
+    height: 50%
+}
+
+body {
+    background: url(rockywall.png);
+}
+
+.well {
+    background-color: dimgray;
+}
